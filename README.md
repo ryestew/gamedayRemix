@@ -85,4 +85,4 @@ The plague, fleas, floods, and..
 
 Nice article on the [Nightwatch](https://www.vqronline.org/vqr-gallery/supposing-rembrandt%E2%80%99s-night-watch)
 
-See also Peter Greenaway's film, [J'accuse](https://tubitv.com/movies/581168/rembrandt-s-j-accuse)
+Most importantly, for info about the murder conspiracy in the painting see Peter Greenaway's film, [J'accuse](https://tubitv.com/movies/581168/rembrandt-s-j-accuse)
