@@ -34,23 +34,36 @@ Militia Company of District II
 - A right handed glove used to slap someone for a challenge (a duel)
 
 ![](images/damsel-challange-glove-dead-chicken.png)
-- A dead chicken
+- An upturned chicken
 
 - A purse
 
 ![](images/purse.png)
 
-- The shadow of a hand
+- The shadow of a hand and a partisan
 ![](images/hand-shadow.png)
 
-### Weapons
-![](images/knife.png)
 - A knife
-- Pikes
-- Partisans: a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries
+![](images/knife.png)
+
+- 13 Pikes
+
+- Partisans: a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries ( see above)
+
 - Muskets
 
-Names of the 3 women in Rembrandt life: Saskia van Uylenburgh, Geertje Dircx, Hendrickje Stoffels
+- A dog
+
+- An outstretched left hand reaching out to shake someone’s hand.
+
+- Triple X’s
+
+- Pot of coffee
+
+### The 3 women in Rembrandt life
+- Saskia van Uylenburgh
+- Geertje Dircx
+- Hendrickje Stoffels
 
 
 ### Guilds in Flemish Paintings: Wine Guild, the Drapers etc
@@ -60,28 +73,14 @@ Names of the 3 women in Rembrandt life: Saskia van Uylenburgh, Geertje Dircx, He
 
 ![](images/Jan_de_Bray-St_Luke_Haarlem.jpg)
 
-### Animals, Items & props in the painting
-A dog
-Rt handed glove used to slap someone for a challenge (a duel)
-13 Pikes
 
-An outstretched left hand reaching out to shake someone’s hand.
+**And because it is Amsterdamn in the 17th century**
+The plague, fleas, floods, and..
 
-
-A Shadows of a hand
-
-Triple X’s
-A purse
-An upturned chicken
-
-Pot of coffee
-
-
-And because it is Amsterdamn in the 17th century
-The plague, fleas, floods, and
-
-Tulips Varietals
-The Viceroy Tulip 
-Semper Augustus Tulip (which was bartered for one thousand pounds of cheese)
+### Tulips Varietals
+- The Viceroy Tulip 
+- Semper Augustus Tulip (which was bartered for one thousand pounds of cheese)
 
 Nice article on the [Nightwatch](https://www.vqronline.org/vqr-gallery/supposing-rembrandt%E2%80%99s-night-watch)
+
+See also Peter Greenaway's film, [J'accuse](https://tubitv.com/movies/581168/rembrandt-s-j-accuse)
