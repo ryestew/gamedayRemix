@@ -3,7 +3,7 @@
 ## A Blockchain Obstacle Course
 This repo contains a number of folders that contain the sections of the challenges of this obstacle course.
 
-### using clues from Rembrandt's the Nightwatch
+### Clues from Rembrandt's the Nightwatch
 The painting the Nightwatch by Rembrandt, completed in 1642 and which hangs in the Rijksmuseum, depicts a Militia Company of District II.  According to a conspiracy theories, Rembrandt may be giving clues to the murder of the company’s previous commander. Just after the painting this work, Rembrandt’s fortunes fall and he is effectively kicked out of high society.
 
 ![](images/nightwatch.png)
