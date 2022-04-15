@@ -77,7 +77,8 @@ Militia Company of District II
 ![](images/Jan_de_Bray-St_Luke_Haarlem.jpg)
 
 
-**And because it is Amsterdamn in the 17th century**
+**And because it is Amsterdam in the 17th century**
+
 The plague, fleas, floods, and..
 
 ### Tulips Varietals
