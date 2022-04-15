@@ -17,6 +17,7 @@ The main conspirators are:
 Frans Banning Cocq, lord of Purmerland and Ilpendam was a burgemeester (mayor), knight and military person of Amsterdam in the mid-17th century. He belonged to the wealthy and powerful Dutch patriciate of the Dutch Golden Age.  
 
 ![](images/second-in-command.png)
+
 Also Banning Cocq’s second-in-command Willem van Ruytenburch.  And possibly, Jacob Dirksen de Roy, the Governor who as it happens was trimmed out of the painting when the painting received a “haircut” a bit later in the 17th century.
 
 And possibly, Jacob Dirksen de Roy, the Governor who as it happens was trimmed out of the painting when the painting received a “haircut” a bit later in the 17th century.
