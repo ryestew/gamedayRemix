@@ -14,7 +14,7 @@ The main conspirators are:
 
 ![](images/cocq.png)
 
-Frans Banning Cocq, lord of Purmerland and Ilpendam was a burgemeester (mayor), knight and military person of Amsterdam in the mid-17th century. He belonged to the wealthy and powerful Dutch patriciate of the Dutch Golden Age.  
+Frans Banning Cocq, lord of Purmerland and Ilpendam was a burgemeester (mayor), knight and military person of Amsterdam in the mid-17th century - the era of the Dutch Golden Age.  
 
 ![](images/second-in-command.png)
 
