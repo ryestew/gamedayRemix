@@ -18,7 +18,7 @@ Frans Banning Cocq, lord of Purmerland and Ilpendam was a burgemeester (mayor), 
 
 ![](images/second-in-command.png)
 
-Also Banning Cocq’s second-in-command Willem van Ruytenburch.  And possibly, Jacob Dirksen de Roy, the Governor who as it happens was trimmed out of the painting when the painting received a “haircut” a bit later in the 17th century.
+Also Banning Cocq’s second-in-command Willem van Ruytenburch.  And possibly, Jacob Dirksen de Roy, the Governor who as it happens was trimmed out of the painting when the painting received a rather significant “haircut” a bit later in the 17th century.
 
 And possibly, Jacob Dirksen de Roy, the Governor who as it happens was trimmed out of the painting when the painting received a “haircut” a bit later in the 17th century.
 
