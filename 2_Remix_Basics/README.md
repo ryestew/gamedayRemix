@@ -38,13 +38,14 @@
         0xb7b0422d which is the signature of the `init` function, followed by the actual parameters. 
 
         There is only one parameter: `_maxBalance` which we can set to 1: 0x0000000000000000000000000000000000000000000000000000000000000001.
-        
+
         So 0xb7b0422d0000000000000000000000000000000000000000000000000000000000000001 allows the proxy to call the `init` function with 1 as first and only parameter.
 
-  - Now Ok: these contracts is completely bugged. In short, call the `proposeNewAdmin` from the proxy using another address. it updates the `pendingAdmin`, that's fine. But look at how the implementation will interpret this updates: for the implementation, you were directly updating the `owner` property!
+  - Now Ok: these contracts are completely bugged. In short, call the `proposeNewAdmin` from the proxy using another address. it updates the `pendingAdmin`, that's fine. But look at how the implementation will interpret these updates: 
+      For the implementation, you were directly updating the `owner` property!
   - From the terminal, click on `Debug` and you can check that `pendingAdmin` is updated.
   - In order to fix we must ensure that the place in the storage where the address of the implementation contract is stored will never collide with a state variable in the implementation contract, and here is the solution: https://eips.ethereum.org/EIPS/eip-1967
-  - Another issue is that the `init` function is not protected and can be called many times, which is a huge security issues. A solution for that is provided by OpenZeppeling stack: https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/proxy/utils/Initializable.sol#L78
+  - Another issue is that the `init` function is not protected and can be called many times, which is a huge security issue. A solution for that is provided by the OpenZeppelin stack: https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/proxy/utils/Initializable.sol#L78
   
 
 
