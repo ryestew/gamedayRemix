@@ -8,14 +8,17 @@
 
 3. Change default workspace’s name
 
-4. Change to the light theme
+4. Change to the **light** theme
 
 5. Load this GIST into Remix: https://gist.github.com/ryestew/903f0f61cc7425761d500ad93e681581
 
-6. Compile the file with the clue listed in the tweet: 
+6. Compile the file with the clue listed in the tweet: https://twitter.com/EthereumRemix/status/1511901727389147136
 
-7. Deploy (simple) - to JSVM
+7. Flatten the file (hint: rt click)
 
+8. Go to the flattened file and input in the google form the word on line 422.
+
+9. 
 
 
 this part is from the ABI
