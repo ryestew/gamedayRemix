@@ -12,7 +12,7 @@
 
  # Use layer 2 - Optimism
 
- - You need to have metamask installed for this section. Use this for the step by step: https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC and https://metamask.zendesk.com/hc/en-us/articles/4415758352667-Network-profile-Optimism for the chain information.
+ - You need to have metamask browser extension installed for this section. Use this for the step by step: https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC and https://metamask.zendesk.com/hc/en-us/articles/4415758352667-Network-profile-Optimism for the chain information.
  - Switch to the Optimism network in metamask
  - Then it's a typical deployment: compile, switch to the `Run and Deploy`, and hit Deploy.
  - Confirm the transaction in Metamask.
