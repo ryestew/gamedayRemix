@@ -18,29 +18,26 @@
 
 8. Go to the flattened file and input in the google form the word on line 422.
 
-9. 
+9. Activate the DGIT plugin
 
+10. clone the gameday repo https://github.com/ryestew/gamedayRemix
 
-this part is from the ABI
+11. go to the **remix1** folder and open the abi file in the editor
 
-8. Open up the deployed instance and use the paytoOwner function - input a string.
+12. go to the file ownerClue.sol
 
-9. Use a function **paytoOwner** and send some wei and a string - which in the function is called **clue**.
+13. compile and deploy to the jsvm
 
-10. Flatten the file with a Rt Click
+14. pay paytoOwner function **13 wei** and add a string.
 
-11. RETURN in google form line on 212 of the flattened file
+15. In the terminal, what is the line you see below **console.log** ?  Input that on the google form.
 
-ABI & AtAddress 
-Use the getClue function and input the return
+16. In the transaction receipt in the terminal, what is the decoded message? Input that on the google form.
 
-Open the debugger from that txn and get an opcode on step
+17. Go to the Debugger from the terminal.
 
-LearnEth
+18. What is the value in the** Solidity Locals** panel?
 
-Activate a plugin with the PM
+19. Go to the LearnEth plugin and open up the solidity basics tutorial and go to step 6 - **Visability**.
 
-
-DGIT clone GameDay
-DGIT - clone one of your own repos
-DGIT - make a change and try to find the diff
+20. A file should open in the editor - what is on line 24? ( the file should be visability.sol)
