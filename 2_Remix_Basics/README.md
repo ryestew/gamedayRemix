@@ -15,6 +15,7 @@
  - You need to have metamask installed for this section. Use this for the step by step: https://metamask.zendesk.com/hc/en-us/articles/360043227612-How-to-add-a-custom-network-RPC and https://metamask.zendesk.com/hc/en-us/articles/4415758352667-Network-profile-Optimism for the chain information.
  - Switch to the Optimism network in metamask
  - Then it's a typical deployment: compile, switch to the `Run and Deploy`, and hit Deploy.
+ - Confirm the transaction in Metamask.
  - Your contract is deployed to Optimism!
 
  # Use the debugger and proxy contract
@@ -32,10 +33,14 @@
 
         - the implementation contract. This is the address of `Puzzle Wallet`.
         
-        - the init code. This give the proxy all the necessary data for the proxy to initiate the implementation contract. In our case, this should be
-        0xb7b0422d which is the signature of the `init` function, followed by the actual parameters. There is only one parameter: `_maxBalance` which we can set to 1: 0x0000000000000000000000000000000000000000000000000000000000000001.
-        So 0xb7b0422d0000000000000000000000000000000000000000000000000000000000000001 allows the proxy to call the `init` function with 1 as first and only parameter.
+        - the init code. 
+        This give the proxy all the necessary data for the proxy to initiate the implementation contract. In our case, this should be
+        0xb7b0422d which is the signature of the `init` function, followed by the actual parameters. 
+
+        There is only one parameter: `_maxBalance` which we can set to 1: 0x0000000000000000000000000000000000000000000000000000000000000001.
         
+        So 0xb7b0422d0000000000000000000000000000000000000000000000000000000000000001 allows the proxy to call the `init` function with 1 as first and only parameter.
+
   - Now Ok: these contracts is completely bugged. In short, call the `proposeNewAdmin` from the proxy using another address. it updates the `pendingAdmin`, that's fine. But look at how the implementation will interpret this updates: for the implementation, you were directly updating the `owner` property!
   - From the terminal, click on `Debug` and you can check that `pendingAdmin` is updated.
   - In order to fix we must ensure that the place in the storage where the address of the implementation contract is stored will never collide with a state variable in the implementation contract, and here is the solution: https://eips.ethereum.org/EIPS/eip-1967
