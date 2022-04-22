@@ -22,8 +22,6 @@
 
 10. clone the gameday repo https://github.com/ryestew/gamedayRemix
 
-11. go to the **remix1** folder and open the abi file in the editor
-
 12. go to the file ownerClue.sol
 
 13. compile and deploy to the jsvm
